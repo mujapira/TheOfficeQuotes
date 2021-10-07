@@ -20,6 +20,6 @@ const Content = styled.div`
 `;
 
 const MichaelImg = styled.img`
-  max-width: 50vh;
+  max-width: 50vw;
   align-self: flex-end;
 `;
