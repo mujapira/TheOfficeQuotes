@@ -14,4 +14,6 @@ export const Button = styled.button`
   &:hover {
     background: #a40000;
   }
+  &:focus {
+    outline: none;
 `;
