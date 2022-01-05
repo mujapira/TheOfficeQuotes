@@ -10,8 +10,9 @@ Projeto criado no Bootcamp da Eduzz em parceria com a DIO</p>
  <img src="./src/images/TheOfficeQuotes.jpg">
 </a>
 
-<p><code>yarn install</code> ou para instalar as dependências.</p>
-<p><code>yarn start</code> para executar localmente em http://localhost:3000/</p>
-
+<p><code>pip3 install -r requirements.txt</code> ou para instalar as dependências do server.</p>
+<p><code>python3 app.py</code> para iniciar o server</p>
+<p><code>yarn install</code> ou para instalar as dependências do front.</p>
+<p><code>yarn start</code> para executar o front localmente em http://localhost:3000/</p>
 
 <p>Projeto ainda não está online!</p>
